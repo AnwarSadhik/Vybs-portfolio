@@ -1,5 +1,5 @@
 const btn = document.getElementById("my-btn")
-const colors = ["red","blue","green","cyan","lightblue","lightgreen","lightyellow"]
+const colors = ["red","blue","green","cyan","lightblue","lightgreen"]
 
 
 btn.addEventListener("click", () => {
