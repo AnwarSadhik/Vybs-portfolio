@@ -211,6 +211,7 @@ svg {
     .hero-container {
         /* width: 100%; */
         overflow-x: hidden;
+        overflow: hidden;
         /* margin: 0 a; */
         margin-left: 2rem;
     }
