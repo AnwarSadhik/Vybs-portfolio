@@ -29,7 +29,7 @@ myCard.forEach((card) => {
   });
 
 function redirectToGmail() {
-    var recipient = 'anwarsdhk@gmail.com';
+    var recipient = 'vybhav37@gmail.com';
     var subject = 'Hello Vaibhav Gudali!';
     var body = 'I just came across your Portfolio! and Im looking for a ... Service from You Thank You and Hoping to hear from You Soon';
 
